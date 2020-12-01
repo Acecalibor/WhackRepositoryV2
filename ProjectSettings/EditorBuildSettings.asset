@@ -8,15 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Main SandBox Master/Scenes/Testing.unity
     guid: b461b5d247dc6b14888cd6247f388dc3
   - enabled: 1
-    path: Assets/Individual Levels/Matthew/Scenes/Hub.unity
-    guid: 6af85d3c34367bb4abe947b8bbcfbd60
-  - enabled: 1
     path: Assets/Individual Levels/Matthew/Scenes/Level 1.unity
     guid: 037a7ad11121b9141a34ded3447c5ace
+  - enabled: 1
+    path: Assets/Individual Levels/Matthew/Scenes/Hub.unity
+    guid: 6af85d3c34367bb4abe947b8bbcfbd60
   - enabled: 1
     path: Assets/Individual Levels/Ethan/Scenes/Level 2 Carnival Games.unity
     guid: 195747005dc3c084f89826692df755fb
