@@ -16,5 +16,9 @@ MonoBehaviour:
   playmakerVersion: 
   showWelcomeScreen: 1
   showUpgradeGuide: 0
+<<<<<<< HEAD
   lastAutoUpdateSignature: 2020.1.6f1__C:/Users/user/Desktop/Whack2/Assets__0.0.0.0
+=======
+  lastAutoUpdateSignature: 2020.1.6f1__C:/Users/MatthewChild/Documents/WhackRepositoryV2/Assets__0.0.0.0
+>>>>>>> 67519dcb57afad4759950d85e3f015a2bccd80ba
   useLegacyNetworking: 0
