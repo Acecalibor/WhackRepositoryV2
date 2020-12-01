@@ -21,18 +21,25 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Troft
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 769f7e0b8794e084585b8aed14949540, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
-  stringTagMap:
-    RenderType: Opaque
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_182446DB:
+        m_Texture: {fileID: 2800000, guid: 36d1d37788f7ef048af28a2ad4c3f412, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4F76F931:
+        m_Texture: {fileID: 2800000, guid: 9d2e8aee18980104897e106bc4577efe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -57,11 +64,24 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6B62FE23_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a0030ecd16933044abf6f7710b736ef0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_2B0491D0: 10
+    - Vector1_4366066D: 0
+    - Vector1_7CA43EC9: 0
+    - Vector1_933C88FD: 5
+    - Vector1_AA6BACA6: 0.7
+    - Vector1_B8D06809: 10
+    - Vector1_BB550FC9: 0.1
+    - Vector1_D6507699: 32
+    - Vector1_FCC88F44: 15
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -84,6 +104,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_12EE7316: {r: 1, g: 1, b: 1, a: 0}
+    - Color_20A276BC: {r: 1, g: 1, b: 1, a: 0}
+    - Color_670E5AD: {r: 1, g: 1, b: 1, a: 0}
+    - Color_DCC429FE: {r: 1, g: 0.14901961, b: 0.05660379, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
