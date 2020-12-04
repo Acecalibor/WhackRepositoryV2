@@ -19446,6 +19446,7 @@ GameObject:
   - component: {fileID: 543450653522241117}
   - component: {fileID: 3469287837372426744}
   - component: {fileID: 1711813855727476018}
+  - component: {fileID: 919132149332180200}
   m_Layer: 0
   m_Name: whackamole
   m_TagString: Untagged
@@ -19453,6 +19454,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &919132149332180200
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132149332180199}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.1309777, y: 1.0813535, z: 2.0263388}
+  m_Center: {x: 0.4558079, y: -0.239863, z: -0.37914374}
 --- !u!4 &947291653792072334
 Transform:
   m_ObjectHideFlags: 0
