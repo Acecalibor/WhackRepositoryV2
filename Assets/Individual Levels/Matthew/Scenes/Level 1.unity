@@ -17242,6 +17242,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dd1055f383f73f543aab55963b98326a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e69e7751be8b3824bb91e127dfe8b9e6, type: 2}
     - target: {fileID: 919132149155446097, guid: dd1055f383f73f543aab55963b98326a, type: 3}
       propertyPath: m_Name
       value: FoodStandRoof C (1)
@@ -24663,7 +24667,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: e5450a9b7ebcda849949ef2417026ef2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 02a5e9636bf5eb84e9407ede42b883e1, type: 2}
+      objectReference: {fileID: 2100000, guid: 669feb4706f1d8b499cc15059296263a, type: 2}
     - target: {fileID: 919132149155446097, guid: e5450a9b7ebcda849949ef2417026ef2, type: 3}
       propertyPath: m_Name
       value: FoodStandRoof B (1)
@@ -46399,6 +46403,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dd1055f383f73f543aab55963b98326a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bbf12f267d1c6da4db8481f91e8cec2e, type: 2}
     - target: {fileID: 919132149155446097, guid: dd1055f383f73f543aab55963b98326a, type: 3}
       propertyPath: m_Name
       value: FoodStandRoof C (1)
@@ -47204,6 +47212,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dd1055f383f73f543aab55963b98326a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d26811fd2d81e5c4195781e8597091be, type: 2}
     - target: {fileID: 919132149155446097, guid: dd1055f383f73f543aab55963b98326a, type: 3}
       propertyPath: m_Name
       value: FoodStandRoof C (1)
@@ -48795,7 +48807,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 230400347390877297}
-  m_LocalRotation: {x: 0.1209757, y: -1.0272456e-22, z: 1.2519124e-23, w: 0.99265546}
+  m_LocalRotation: {x: 0.1209757, y: -0, z: -0, w: 0.99265546}
   m_LocalPosition: {x: 0.14099884, y: 12.648001, z: -23.779}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -52179,7 +52191,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8381693843724594292}
-  m_LocalRotation: {x: 0.120975696, y: -1.0072363e-22, z: -3.3938733e-24, w: 0.9926555}
+  m_LocalRotation: {x: 0.120975696, y: -1e-45, z: -0, w: 0.9926555}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -52194,7 +52206,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8381693843879532993}
-  m_LocalRotation: {x: 0.13901159, y: -6.6805784e-23, z: -7.91947e-24, w: 0.99029076}
+  m_LocalRotation: {x: 0.13901159, y: 1.7073685e-15, z: -5.436474e-16, w: 0.99029076}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -52687,7 +52699,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8381693845460061260}
-  m_LocalRotation: {x: 0.10294758, y: -0.00000002168449, z: 0.00000000224429, w: 0.9946868}
+  m_LocalRotation: {x: 0.10294758, y: 0.000000019135104, z: -0.0000000019804351, w: 0.9946868}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
