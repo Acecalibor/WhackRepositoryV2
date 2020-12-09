@@ -117,7 +117,7 @@ Material:
     - Color_670E5AD: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 0}
     - Color_6EBE01B6: {r: 0.5660378, g: 0.5660378, b: 0.5660378, a: 0}
     - Color_BEBE7E40: {r: 0, g: 0, b: 0, a: 0}
-    - Color_DCC429FE: {r: 0.9528302, g: 0.49003956, b: 0.40899786, a: 0}
+    - Color_DCC429FE: {r: 1, g: 0.3529412, b: 0.28627452, a: 0}
     - Color_EBEC1: {r: 1, g: 1, b: 1, a: 0}
     - Vector4_B5D54B9C: {r: 1, g: 1, b: 1, a: 1}
     - Vector4_DBA34FD1: {r: 1, g: 1, b: 0, a: 0}
