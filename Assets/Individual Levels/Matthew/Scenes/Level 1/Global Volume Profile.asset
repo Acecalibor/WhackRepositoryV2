@@ -93,8 +93,8 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.22638147
-          value: 0.18148148
+          time: 0.21212122
+          value: 0.24814814
           inSlope: 0.89372814
           outSlope: 0.89372814
           tangentMode: 0
@@ -356,10 +356,10 @@ MonoBehaviour:
   m_AdvancedMode: 0
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.9876188, y: 0.9805147, z: 1, w: -0.04941321}
+    m_Value: {x: 0.9876188, y: 0.9805147, z: 1, w: -0.055589873}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 1, z: 1, w: -0.018530052}
+    m_Value: {x: 1, y: 1, z: 1, w: 0.030883163}
   highlights:
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0.059519038}
@@ -471,6 +471,11 @@ MonoBehaviour:
   highQualityFiltering:
     m_OverrideState: 1
     m_Value: 1
+  skipIterations:
+    m_OverrideState: 0
+    m_Value: 2
+    min: 0
+    max: 16
   dirtTexture:
     m_OverrideState: 0
     m_Value: {fileID: 0}
