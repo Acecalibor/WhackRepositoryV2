@@ -116,7 +116,7 @@ Material:
     - Color_20A276BC: {r: 1, g: 1, b: 1, a: 0}
     - Color_60D0BF0C: {r: 0, g: 0, b: 0, a: 0}
     - Color_670E5AD: {r: 1, g: 1, b: 1, a: 0}
-    - Color_DCC429FE: {r: 0.05660379, g: 0.05660379, b: 0.05660379, a: 0}
+    - Color_DCC429FE: {r: 1, g: 0.3529412, b: 0.28627452, a: 0}
     - Vector4_B5D54B9C: {r: 1, g: 1, b: 1, a: 1}
     - Vector4_DBA34FD1: {r: 1, g: 1, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
