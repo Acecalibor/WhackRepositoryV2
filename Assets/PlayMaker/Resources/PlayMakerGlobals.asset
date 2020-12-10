@@ -58,3 +58,4 @@ MonoBehaviour:
   - ApplyGravity
   - LET GO
   - UNDER_GROUND
+  - ShooSend
