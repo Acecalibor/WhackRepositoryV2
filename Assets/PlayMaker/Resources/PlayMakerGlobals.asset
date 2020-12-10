@@ -52,9 +52,9 @@ MonoBehaviour:
   - SNAKE_UNALERT
   - attack
   - ABOVE_GROUND
-  - UNDER_GROUND
   - FETCH
   - Dig
   - DIG
   - ApplyGravity
   - LET GO
+  - UNDER_GROUND
