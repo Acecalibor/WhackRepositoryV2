@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6430629962055589989}
   - component: {fileID: 7967417996664745920}
   - component: {fileID: 5293140499825253130}
+  - component: {fileID: 4023754001589707539}
   m_Layer: 0
   m_Name: FoodStandRoof A
   m_TagString: Untagged
@@ -81,3 +82,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4023754001589707539
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5941935992532302559}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.9632678, y: 2.3934088, z: 0.7342113}
+  m_Center: {x: -0.00000036048988, y: 0.000007268797, z: 3.024009}

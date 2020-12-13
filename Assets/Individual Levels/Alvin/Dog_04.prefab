@@ -6141,7 +6141,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: Chase
+        toState: buffer
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
@@ -7061,7 +7061,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1
+          value: 0.1
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params: []
@@ -7670,7 +7670,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: target
+        toState: Chase
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
