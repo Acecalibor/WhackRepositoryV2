@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Individual Levels/Terra/UI/UI/mainmenu.unity
+    guid: e0c7c0bc9faec9e4f98788c78a5975a2
   - enabled: 0
     path: Assets/Main SandBox Master/Scenes/Testing.unity
     guid: b461b5d247dc6b14888cd6247f388dc3
@@ -29,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Individual Levels/Brianne/Scenes/Level5.unity
     guid: a612544bb6a2ea74bbbc8c32d5027505
+  - enabled: 1
+    path: Assets/Individual Levels/Terra/UI/UI/credits.unity
+    guid: 04627f6043163e641b3216ab4c164053
   m_configObjects: {}
