@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!65 &8960634771075816090
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 165272168115937321}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.8365285, y: 2.517153, z: 1.1375227}
+  m_Center: {x: 0.025040803, y: 0.14142323, z: 2.67}
 --- !u!1 &1598669316763225696
 GameObject:
   m_ObjectHideFlags: 0
@@ -486,6 +499,34 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8960634769910611353
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1625412869670483560}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 470779690643088720, guid: c0319594831d18049823e4fe8959ad67, type: 3}
+--- !u!64 &8960634771407893924
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1625412871163302421}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 470779690643088720, guid: c0319594831d18049823e4fe8959ad67, type: 3}
 --- !u!1 &1850067813692218138
 GameObject:
   m_ObjectHideFlags: 0
@@ -2022,7 +2063,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -2056,7 +2097,7 @@ MonoBehaviour:
     handleAnimatorMove: 0
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
-  eventHandlerComponentsAdded: 0
+  eventHandlerComponentsAdded: 1
 --- !u!1 &5189757003494516558
 GameObject:
   m_ObjectHideFlags: 0
@@ -4039,7 +4080,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5771294832132393038}
   m_Layer: 0
-  m_Name: ALVIN ENVIRONMENT
+  m_Name: Alvin Environment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4728,20 +4769,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8960634769910611353
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1625412869670483560}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 470779690643088720, guid: c0319594831d18049823e4fe8959ad67, type: 3}
 --- !u!1 &8960634769917020592
 GameObject:
   m_ObjectHideFlags: 0
@@ -10785,19 +10812,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.48738796, y: 1.7398667, z: 4.054329}
   m_Center: {x: 0.12389294, y: 0.000000003756841, z: 2.0271645}
---- !u!65 &8960634771075816090
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 165272168115937321}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.8365285, y: 2.517153, z: 1.1375227}
-  m_Center: {x: 0.025040803, y: 0.14142323, z: 2.67}
 --- !u!1 &8960634771091050575
 GameObject:
   m_ObjectHideFlags: 0
@@ -12678,20 +12692,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8960634771407893924
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1625412871163302421}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 470779690643088720, guid: c0319594831d18049823e4fe8959ad67, type: 3}
 --- !u!1 &8960634771411094860
 GameObject:
   m_ObjectHideFlags: 0
